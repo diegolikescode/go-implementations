@@ -1,3 +1,4 @@
 .env
 wine-dataset.csv
-testdata
+!.gitkeep
+internal/aws/testdata/*.json
